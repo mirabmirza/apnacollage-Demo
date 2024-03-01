@@ -1,4 +1,4 @@
 # apnacollage-Demo
 This is my first Git repository.
 <br>
-Author - Umaima Mirza
+Author - Umaima mirza
